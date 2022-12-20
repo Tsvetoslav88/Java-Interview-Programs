@@ -1,2 +1,2 @@
 # Java-Interview-Programs
-Listed some of the most popular java interview programs with link to their solutions.
+The Repo contains some of the  most popular java interview programs solutions written in java.
