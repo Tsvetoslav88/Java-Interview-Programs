@@ -1,4 +1,4 @@
-package org.hdlservices;
+package org.hdlservices.exercise;
 
 /**
  * A number is called an Armstrong number if it is equal to sum of its digits each raised to the power of number of digits in it. For example: 153, 371, 407, 9474, 54748 are some Armstrong numbers.

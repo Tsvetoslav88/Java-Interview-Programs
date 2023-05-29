@@ -1,4 +1,4 @@
-package org.hdlservices;
+package org.hdlservices.exercise;
 
 import java.util.Scanner;
 
